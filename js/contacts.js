@@ -22,11 +22,11 @@ var contactPrenom="";
 var choix=1;
 
 var contact1=Object.create(Contact);
-contact1.init("Léssive","Carole");
+contact1.init("Wilson","Julian");
 contacts.push(contact1);
 
 var contact2=Object.create(Contact);
-contact2.init("Nélssone","Mélodie");
+contact2.init("Florence","JJ");
 contacts.push(contact2);
 
 
